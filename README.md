@@ -34,14 +34,4 @@ pip install pandas matplotlib openpyxl
 2. Run the analyzer:
 python quality_analyzer.py
 
-## My Background
-- Studying Operational Excellence at Hochschule Hof
-- Mechanical Engineering background
-- Applying Python for data-driven process optimization
 
-## Relevance to Bosch
-This project demonstrates practical Python skills directly 
-applicable to Wafer and Sensor manufacturing:
-- Process data analysis
-- Quality monitoring and exception reporting
-- Data visualization for engineering decisions
